@@ -70,9 +70,5 @@ BitBucket.
 
 ## 📚 Publicações
 - [automacao-robot-framework](https://github.com/joaomarcosqa/automacao-robot-framework)
-- [automacao-web-robot-framework](https://github.com/joaomarcosqa/automacao-web-robot-framework)
-- [automacao-api-robot-framework](https://github.com/joaomarcosqa/automacao-api-robot-framework)
-- [automacao-mobile-robot-framework](https://github.com/joaomarcosqa/automacao-mobile-robot-framework)
-- [automacao-site-vw-epeca](https://github.com/joaomarcosqa/automacao-site-vw-epeca)
-- [automacao-cypress](https://github.com/joaomarcosqa/automacao-cypress)
-
+- [automacao-cypress-cucumber](https://github.com/joaomarcosqa/automacao-cypress-cucumber)
+- [automacao-playwright](https://github.com/joaomarcosqa/automacao-playwright)
