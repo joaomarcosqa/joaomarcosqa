@@ -12,6 +12,13 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-marcos-test-analyst/)
 
+<br><br>
+<div align="center">
+  <a href="https://github.com/joaomarcosqa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div><br><br>
+
 ## 💻 Experiência de Trabalho
 Tech Lead | Chapter Lead
 Quality Corp | Jan. de 2022 - presente
@@ -73,13 +80,3 @@ BitBucket.
 - [automacao-robot-framework](https://github.com/joaomarcosqa/automacao-robot-framework)
 - [automacao-cypress-cucumber](https://github.com/joaomarcosqa/automacao-cypress-cucumber)
 - [automacao-playwright](https://github.com/joaomarcosqa/automacao-playwright)
-
-
-
-
-<br><br>
-<div align="center">
-  <a href="https://github.com/joaomarcosqa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div><br><br>
