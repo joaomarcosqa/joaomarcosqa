@@ -4,7 +4,7 @@
 
 # Olá! Sou João Marcos!👋   <br>
 
-## 👩‍💻 Qa Tech Lead | Chapter Lead
+## 👩‍💻 Qa Tech Lead | Chapter Lead | Sênior
 
 Sou um cara hands-on com muita
 facilidade em absorver novos conhecimentos,
