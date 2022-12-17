@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
-# 📘 📖 Olá! Sou João Marcos!👋  📑 📚 <br>
+# Olá! Sou João Marcos!👋   <br>
 
 ## 👩‍💻 Qa Tech Lead | Chapter Lead
 
