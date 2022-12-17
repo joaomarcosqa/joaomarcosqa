@@ -2,7 +2,8 @@
 
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
-# Olá! Sou João Marcos!👋
+# 📘 📖 Olá! Sou João Marcos!👋  📑 📚 <br>
+
 ## 👩‍💻 Qa Tech Lead | Chapter Lead
 
 Sou um cara hands-on com muita
@@ -72,3 +73,13 @@ BitBucket.
 - [automacao-robot-framework](https://github.com/joaomarcosqa/automacao-robot-framework)
 - [automacao-cypress-cucumber](https://github.com/joaomarcosqa/automacao-cypress-cucumber)
 - [automacao-playwright](https://github.com/joaomarcosqa/automacao-playwright)
+
+
+
+
+<br><br>
+<div align="center">
+  <a href="https://github.com/joaomarcosqa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div><br><br>
