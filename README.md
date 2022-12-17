@@ -9,11 +9,10 @@
 Sou um cara hands-on com muita
 facilidade em absorver novos conhecimentos,
 atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o processo de Qa dentro da organização, responsável por todo o time de qualidade e processos relacionados a qualidade de software.
-
-
-
+<br><br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joao-marcos-test-analyst/)
 [<img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white"/>](https://allmylinks.com/joaomarcosqa)
+<br><br>
 
 <br><br>
 <div align="center">
