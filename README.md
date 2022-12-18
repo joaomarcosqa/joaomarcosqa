@@ -10,17 +10,55 @@ Sou um cara hands-on com muita
 facilidade em absorver novos conhecimentos,
 atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o processo de Qa dentro da organização, responsável por todo o time de qualidade e processos relacionados a qualidade de software.
 
+<!-- ## 🏆 Certificações:
+<p>
+<img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20>
+<img src=https://img.shields.io/badge/-CTFLAT%20-%23525252.svg?style=flat>
+<img src=https://img.shields.io/badge/-CTALTAE%20-%23525252.svg?style=flat>
+</p> -->
+
+## Experiência em Automação de Testes:
+<p>
+  <img src=https://img.shields.io/badge/Python%20-%23525252.svg?style=flat&logo=Python&logoColor=Blue&>
+  <img src=https://img.shields.io/badge/Javascript%20-%23525252.svg?style=flat&logo=Javascript&logoColor=yellow&>
+  <img src=https://img.shields.io/badge/Robot%20Framework%20-%23525252.svg?style=flat&logo=robot-framework&logoColor=white>
+  <img src=https://img.shields.io/badge/Cypress%20-%23525252.svg?style=flat&logo=cypress&logoColor=green&>
+  <img src=https://img.shields.io/badge/Playwright%20-%23525252.svg?style=flat&logo=Playwright&logoColor=green&>
+  <img src=https://img.shields.io/badge/Github%20-%23525252.svg?style=flat&logo=Github&logoColor=white>
+  <img src=https://img.shields.io/badge/Bitbucket%20-%23525252.svg?style=flat&logo=Bitbucket&logoColor=white>
+  <img src=https://img.shields.io/badge/Gitlab%20-%23525252.svg?style=flat&logo=Gitlab&logoColor=white>
+  <img src=https://img.shields.io/badge/Jenkins%20-%23525252.svg?style=flat&logo=Jenkins&logoColor=white>
+  <img src=https://img.shields.io/badge/Drone%20-%23525252.svg?style=flat&logo=Drone&logoColor=white>
+  <img src=https://img.shields.io/badge/K6%20-%23525252.svg?style=flat&logo=K6&logoColor=red&>
+  <img src=https://img.shields.io/badge/Gatling%20-%23525252.svg?style=flat&logo=Gatling&logoColor=white>
+  <img src=https://img.shields.io/badge/Locust%20-%23525252.svg?style=flat&logo=Locust&logoColor=purple&>
+  <img src=https://img.shields.io/badge/Jmeter%20-%23525252.svg?style=flat&logo=jmeter&logoColor=red&>
+  <img src=https://img.shields.io/badge/Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
+  <img src=https://img.shields.io/badge/Java%20-%23525252.svg?style=flat&logo=Java&logoColor=red&>
+  <img src=https://img.shields.io/badge/Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
+ </p>
+ 
+ ## Sistemas Operacionais:
+ <p>
+  <img src=https://img.shields.io/badge/mac%20os-%23525252.svg?style=flat&logo=macos&logoColor=white>
+  <img src=https://img.shields.io/badge/-Linux%20-%23525252.svg?style=flat&logo=linux&logoColor=white&>
+  <img src=https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&>
+</p>
+
+## Meus Links
+<div align="center"> 
+  <a href="https://allmylinks.com/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/joaomarcosqa#39820" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joaomarcos_x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 <br><br>
 <div align="center">
   <a href="https://github.com/joaomarcosqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=dark"/>
-</div><br><br>
- 
-<div align="center"> 
-  <a href="https://allmylinks.com/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joaomarcos_x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><br><br>
   
 ## 💻 Experiência de Trabalho
