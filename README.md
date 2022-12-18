@@ -23,15 +23,15 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 </div><br><br>
   
 ## 💻 Experiência de Trabalho
-Tech Lead | Chapter Lead
+Tech Lead | Chapter Lead | Sênior
 Quality Corp | Jan. de 2022 - presente
 Reestruturação de toda area de qualidade da empresa, treinamento de equipe relacionado a regra de negócio, linguagens, boas práticas, hard e softskills do time de Qa. Construção dos scripts de testes usando BDD, Abertura e acompanhamento de bugs , Envio de status report, com andamento das atividades de testes, Participação em todas as cerimonias do Scrum, Automação de testes com Robot Framework e Python, execução de testes Web, Mobile e API.
 
-Engenheiro de Qualidade Pleno
+Engenheiro de Qualidade
 Quality Corp | Jun. de 2021 - Jan de 2022
 Construção dos scripts de testes usando BDD, Abertura e acompanhamento de bugs , Envio de status report, com andamento das atividades de testes, Participação em todos eventos Scrum, Automação de testes com Robot Framework e Python, execução de testes Web, Mobile e API.
 
-Engenheiro de Qualidade Pleno
+Engenheiro de Qualidade
 Cyber Solutions | Jan. de 2017 até Mai. de 2021
 Abertura e acompanhamento de bugs , Envio de status report, com andamento das atividades de testes, Participação em todos eventos Scrum, Automação de testes com Java e Cypress, execução de testes Web, Mobile e API.
 
