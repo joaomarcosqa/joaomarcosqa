@@ -18,8 +18,8 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 </div><br><br>
  
 ## <div align="center"> 
-  <a href="https://allmylinks.com/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://allmylinks.com/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br><br>
    
 ## 💻 Experiência de Trabalho
