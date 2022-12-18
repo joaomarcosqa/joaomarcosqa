@@ -12,6 +12,19 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 
 <div align="center">
   <a href="https://github.com/joaomarcosqa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqay&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=dark"/>
+  
+  
+  ##
+<div align="center"> 
+[<img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white"/>](https://allmylinks.com/joaomarcosqa)
+  <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ 
+</div>
+
+<div align="center">
+  <a href="https://github.com/joaomarcosqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=dark"/>
 
