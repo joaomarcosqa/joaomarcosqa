@@ -20,11 +20,9 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
   
   
   ##
-<div align="center"> 
 [<img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white"/>](https://allmylinks.com/joaomarcosqa)
   <a href = "mailto:yjoaomarcosad@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <br><br>
 <div align="center">
