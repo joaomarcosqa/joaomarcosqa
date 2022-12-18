@@ -13,13 +13,15 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 <br><br>
 <div align="center">
   <a href="https://github.com/joaomarcosqa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=dark"/>
 </div><br><br>
-  
-[<img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white"/>](https://allmylinks.com/joaomarcosqa)
+ 
+<div align="center">
+  [<img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white"/>](https://allmylinks.com/joaomarcosqa)
   <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+</div><br><br>
+   
 ## 💻 Experiência de Trabalho
 Tech Lead | Chapter Lead
 Quality Corp | Jan. de 2022 - presente
