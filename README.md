@@ -118,6 +118,7 @@ Gitlab,
 BitBucket.
 
 ## 📚 Publicações
-- [automacao-robot-framework](https://github.com/joaomarcosqa/automacao-robot-framework)
-- [automacao-cypress-cucumber](https://github.com/joaomarcosqa/automacao-cypress-cucumber)
+- [automation-web-en-robot-framework](https://github.com/joaomarcosqa/automation-robot-framework-web-en)
+- [automation-mobile-en-robot-framework](https://github.com/joaomarcosqa/automation-robot-framework-mobile-en)
+- [automacao-cypress](https://github.com/joaomarcosqa/automacao-cypress)
 - [automacao-playwright](https://github.com/joaomarcosqa/automacao-playwright)
