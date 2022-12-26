@@ -58,7 +58,7 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
   <a href="https://github.com/joaomarcosqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=8&theme=dark"/>
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomarcosqa"/>
+<!--   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomarcosqa"/> -->
 </div><br><br>
   
 ## 💻 Experiência de Trabalho
