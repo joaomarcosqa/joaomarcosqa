@@ -4,6 +4,16 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos!   <br>
 
+<h4 align="center">
+
+[![](https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white)](https://allmylinks.com/joaomarcosqa)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.linkedin.com/in/joao-marcos-test-analyst/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaomarcosqa)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaomarcosqa)](https://open.spotify.com/user/316x2reaytqckc6mctbofogkauzi?si=PTv-SGr1SXC0duHfyyV9jw)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.instagram.com/joaomarcos_x/)
+  
+</h4>
+
 ## 👩‍💻 Qa Tech Lead | Chapter Lead | Sênior
 
 Sou um cara hands-on com muita
@@ -45,21 +55,12 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
   <img src=https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&>
 </p>
 
-## Meus Links:
-<div align="center"> 
-  <a href="https://allmylinks.com/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/joaomarcosqa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joaomarcos_x/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+## GitHub Stats
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaomarcosqa&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaomarcosqa&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-<br><br>
-<div align="center">
-  <a href="https://github.com/joaomarcosqa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=8&theme=dark"/>
-<!--   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomarcosqa"/> -->
-</div><br><br>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomarcosqa&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=joaomarcosqa&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
   
 ## 💻 Experiência de Trabalho
 Tech Lead | Chapter Lead | Sênior
@@ -99,6 +100,7 @@ Java.
 
 ## 💻Testes de Carga:
 Gatling,
+K6,
 Locust,
 Jmeter.
 
