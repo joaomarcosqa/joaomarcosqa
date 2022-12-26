@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
-# Olá! Sou João Marcos!👋   <br>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos!   <br>
 
 ## 👩‍💻 Qa Tech Lead | Chapter Lead | Sênior
 
@@ -57,7 +57,8 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 <div align="center">
   <a href="https://github.com/joaomarcosqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosqa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosqa&layout=compact&langs_count=8&theme=dark"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomarcosqa"/>
 </div><br><br>
   
 ## 💻 Experiência de Trabalho
