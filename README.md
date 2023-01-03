@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=0e75b6&style=flat" alt="João Marcos" /> </p>
 
+<!-- <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa"> -->
+
 <img align="right" width="250" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos!   <br>
