@@ -17,16 +17,16 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
     <img src="https://img.shields.io/badge/-All My Links-ff3a5e?style=for-the-badge&logo=Links&logoColor=FFF"/>
   </a>
   
-  <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
-  
+    
   <a href="https://t.me/joaomarcosqa" alt="Telegram">
     <img src="https://img.shields.io/badge/Telegram-ff3a5e?style=for-the-badge&logo=Links&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
 </div>  
