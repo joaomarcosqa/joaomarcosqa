@@ -41,7 +41,7 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 
 <!-- <h4 align="center"> -->
   
-<!-- [![](https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white)](https://allmylinks.com/joaomarcosqa) -->
+<!-- [![All My Links](https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white)](https://allmylinks.com/joaomarcosqa) -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.linkedin.com/in/joao-marcos-test-analyst/) -->
 <!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaomarcosqa) -->
 <!-- [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaomarcosqa)](https://open.spotify.com/user/316x2reaytqckc6mctbofogkauzi?si=PTv-SGr1SXC0duHfyyV9jw) -->
