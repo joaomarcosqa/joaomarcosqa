@@ -12,15 +12,34 @@ Sou um cara hands-on com muita
 facilidade em absorver novos conhecimentos,
 atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o processo de Qa dentro da organização, responsável por todo o time de qualidade e processos relacionados a qualidade de software.
 
-<h4 align="center">
-
-[![](https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white)](https://allmylinks.com/joaomarcosqa)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.linkedin.com/in/joao-marcos-test-analyst/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaomarcosqa)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaomarcosqa)](https://open.spotify.com/user/316x2reaytqckc6mctbofogkauzi?si=PTv-SGr1SXC0duHfyyV9jw)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.instagram.com/joaomarcos_x/)
+<div align="center">
+  <a href="https://allmylinks.com/joaomarcosqa" alt="All My Links">
+    <img src="https://img.shields.io/badge/-All My Links-ff3a5e?style=for-the-badge&logo=Links&logoColor=FFF"/>
+  </a>
   
-</h4>
+  <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+  </a>
+  
+  <a href="https://t.me/joaomarcosqa" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-ff3a5e?style=for-the-badge&logo=Links&logoColor=FFF"/>
+  </a>
+  
+</div>  
+
+<!-- <h4 align="center"> -->
+  
+<!-- [![](https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white)](https://allmylinks.com/joaomarcosqa) -->
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.linkedin.com/in/joao-marcos-test-analyst/) -->
+<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaomarcosqa) -->
+<!-- [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaomarcosqa)](https://open.spotify.com/user/316x2reaytqckc6mctbofogkauzi?si=PTv-SGr1SXC0duHfyyV9jw) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.instagram.com/joaomarcos_x/) -->
+  
+<!-- </h4> -->
 
 <!-- ## 🏆 Certificações:
 <p>
