@@ -33,9 +33,9 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
     <img src="https://img.shields.io/badge/-Bitbucket-ff3a5e?style=for-the-badge&logo=Bitbucket&logoColor=FFF"/>
   </a>
   
-<!--   <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
+  <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
-  </a> -->
+  </a>
   
 </div>  
 
