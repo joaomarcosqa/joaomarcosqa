@@ -48,6 +48,10 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
   <img src=https://img.shields.io/badge/Sikuli%20-%23525252.svg?style=flat&logo=sikuli&logoColor=red&>
   <img src=https://img.shields.io/badge/Java%20-%23525252.svg?style=flat&logo=Java&logoColor=red&>
   <img src=https://img.shields.io/badge/Selenium%20-%23525252.svg?style=flat&logo=selenium&logoColor=red&>
+  <img src=https://img.shields.io/badge/Xcode%20-%23525252.svg?style=flat&logo=xcode&logoColor=blue&>
+  <img src=https://img.shields.io/badge/Android%20Studio%20-%23525252.svg?style=flat&logo=android-studio&logoColor=green&>
+  <img src=https://img.shields.io/badge/Appium%20-%23525252.svg?style=flat&logo=appium&logoColor=white>
+  <img src=https://img.shields.io/badge/Appium%20Inspector%20-%23525252.svg?style=flat&logo=appium-inspector&logoColor=white>
  </p>
  
  ## Sistemas Operacionais:
