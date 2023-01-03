@@ -2,9 +2,15 @@
 
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa">
 
-<img align="right" width="250" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
+<!-- <img align="right" width="250" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/> -->
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos!   <br>
+
+## 💻 Qa Tech Lead | Chapter Lead | Sênior
+
+Sou um cara hands-on com muita
+facilidade em absorver novos conhecimentos,
+atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o processo de Qa dentro da organização, responsável por todo o time de qualidade e processos relacionados a qualidade de software.
 
 <h4 align="center">
 
@@ -15,12 +21,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.instagram.com/joaomarcos_x/)
   
 </h4>
-
-## 👩‍💻 Qa Tech Lead | Chapter Lead | Sênior
-
-Sou um cara hands-on com muita
-facilidade em absorver novos conhecimentos,
-atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o processo de Qa dentro da organização, responsável por todo o time de qualidade e processos relacionados a qualidade de software.
 
 <!-- ## 🏆 Certificações:
 <p>
