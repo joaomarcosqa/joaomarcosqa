@@ -12,7 +12,7 @@ Sou um cara hands-on com muita
 facilidade em absorver novos conhecimentos,
 atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o processo de Qa dentro da organização, responsável por todo o time de qualidade e processos relacionados a qualidade de software.
 
-<div align="center">
+<div align="left">
   <a href="https://allmylinks.com/joaomarcosqa" alt="All My Links">
     <img src="https://img.shields.io/badge/-All My Links-ff3a5e?style=for-the-badge&logo=Links&logoColor=FFF"/>
   </a>
@@ -22,12 +22,20 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
   </a>
     
   <a href="https://t.me/joaomarcosqa" alt="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-ff3a5e?style=for-the-badge&logo=Links&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/Telegram-ff3a5e?style=for-the-badge&logo=Telegram&logoColor=FFF"/>
   </a>
   
-  <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  <a href="https://gitlab.com/joaomarcosqa" alt="Gitlab">
+    <img src="https://img.shields.io/badge/-Gitlab-ff3a5e?style=for-the-badge&logo=Gitlab&logoColor=FFF"/>
   </a>
+  
+  <a href="https://bitbucket.org/joaomarcosqa/" alt="Bitbucket">
+    <img src="https://img.shields.io/badge/-Bitbucket-ff3a5e?style=for-the-badge&logo=Bitbucket&logoColor=FFF"/>
+  </a>
+  
+<!--   <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a> -->
   
 </div>  
 
