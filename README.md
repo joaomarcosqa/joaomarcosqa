@@ -124,7 +124,7 @@ Abertura e acompanhamento de bugs.
 Elaboração da massa de teste.
 Manutenção de scripts de testes.
 Automação de testes com Java, Playright, Robot Framework e Cypress.
-Teste de carga/stress com Jmeter, Locust e Gatling.
+Teste de carga/stress com Jmeter, K6, Locust e Gatling.
 Conhecimento em Jira, Microsoft Azure e TFS.
 Criação de documentações.
 Estruturar Chapter de Qa dentro de uma organização.
