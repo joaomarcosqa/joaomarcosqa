@@ -4,9 +4,9 @@
 
 <!-- <img align="right" width="250" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/> -->
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos!   <br>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos! 🍷🗿 <br>
 
-## 💻 Qa Tech Lead | Chapter Lead | Sênior
+## 🎯 Qa Tech Lead | Chapter Lead | Sênior
 
 Sou um cara hands-on com muita
 facilidade em absorver novos conhecimentos,
