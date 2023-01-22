@@ -2,6 +2,9 @@
     <a href="https://github.com/joaomarcosqa/joaomarcosqa/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joaomarcosqa/joaomarcosqa?color=0088ff" />
     </a>
+    <a href="https://github.com/joaomarcosqa/automation-robot-framework-mobile-en/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/joaomarcosqa/automation-robot-framework-mobile-en?color=0088ff" />
+    </a>
      <a href="https://github.com/joaomarcosqa/joaomarcosqa/graphs/contributors">
       <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=0088ff" alt="João Marcos" />
     </a>
