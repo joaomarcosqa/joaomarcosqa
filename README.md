@@ -10,6 +10,8 @@
     </a>
 </p>
 
+<!-- cor azul bacana para logos= 0088ff -->
+
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa">
 
 <!-- <img align="right" width="250" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/> -->
