@@ -1,12 +1,12 @@
 <p align="left">
     <a href="https://github.com/joaomarcosqa/joaomarcosqa/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joaomarcosqa/joaomarcosqa?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joaomarcosqa/joaomarcosqa?color=FF3A5E" />
     </a>
-    <a href="https://github.com/joaomarcosqa/automation-robot-framework-mobile-en/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/joaomarcosqa/automation-robot-framework-mobile-en?color=0088ff" />
+    <a href="https://github.com/joaomarcosqa/joaomarcosqa/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/joaomarcosqa/joaomarcosqa?color=FF3A5E" />
     </a>
      <a href="https://github.com/joaomarcosqa/joaomarcosqa/graphs/contributors">
-      <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=0088ff" alt="João Marcos" />
+      <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=FF3A5E" alt="João Marcos" />
     </a>
 </p>
 
