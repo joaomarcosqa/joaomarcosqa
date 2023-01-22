@@ -12,8 +12,6 @@
 
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa">
 
-<!-- <img align="right" width="250" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/> -->
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos! 🍷🗿 <br>
 
 ## 🎯 Qa Tech Lead | Chapter Lead | Sênior
@@ -51,17 +49,7 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0088ff&size=35&center=true&vCenter=true&width=1000&lines=you+will+see;what+i+want+you+to+see)](https://git.io/typing-svg)
   
-</div>  
-
-<!-- <h4 align="center"> -->
-  
-<!-- [![All My Links](https://img.shields.io/badge/allmylinks-%230077B5.svg?&style=for-the-badge&logo=almylinks&logoColor=white)](https://allmylinks.com/joaomarcosqa) -->
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.linkedin.com/in/joao-marcos-test-analyst/) -->
-<!-- [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaomarcosqa) -->
-<!-- [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/joaomarcosqa)](https://open.spotify.com/user/316x2reaytqckc6mctbofogkauzi?si=PTv-SGr1SXC0duHfyyV9jw) -->
-<!-- [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/joaomarcosqa)](https://www.instagram.com/joaomarcos_x/) -->
-  
-<!-- </h4> -->
+</div>
 
 <!-- ## 🏆 Certificações:
 <p>
