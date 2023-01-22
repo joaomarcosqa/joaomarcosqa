@@ -1,4 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=0e75b6&style=flat" alt="João Marcos" /> </p>
+<p align="left">
+    <a href="https://github.com/joaomarcosqa/joaomarcosqa/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joaomarcosqa/joaomarcosqa?color=0088ff" />
+    </a>
+     <a href="https://github.com/joaomarcosqa/joaomarcosqa/graphs/contributors">
+      <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=0088ff" alt="João Marcos" />
+    </a>
+</p>
 
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa">
 
