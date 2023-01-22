@@ -1,16 +1,14 @@
 <p align="left">
     <a href="https://github.com/joaomarcosqa/joaomarcosqa/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joaomarcosqa/joaomarcosqa?color=FF3A5E" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/joaomarcosqa/joaomarcosqa?color=0088ff" />
     </a>
     <a href="https://github.com/joaomarcosqa/joaomarcosqa/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/joaomarcosqa/joaomarcosqa?color=FF3A5E" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/joaomarcosqa/joaomarcosqa?color=0088ff" />
     </a>
      <a href="https://github.com/joaomarcosqa/joaomarcosqa/graphs/contributors">
-      <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=FF3A5E" alt="João Marcos" />
+      <img src="https://komarev.com/ghpvc/?username=joaomarcosqa&label=Profile%20views&color=0088ff" alt="João Marcos" />
     </a>
 </p>
-
-<!-- cor azul bacana para logos= 0088ff -->
 
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa">
 
@@ -26,32 +24,32 @@ atualmente estou atuando como Tech Lead & Chapter Lead, definindo todo o process
 
 <div align="left">
   <a href="https://allmylinks.com/joaomarcosqa" alt="My Links">
-    <img src="https://img.shields.io/badge/-My Links-ff3a5e?style=for-the-badge&logo=My Links&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-My Links-0088ff?style=for-the-badge&logo=My Links&logoColor=FFF"/>
   </a>
   
   <a href="https://www.linkedin.com/in/joao-marcos-test-analyst/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0088ff?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
     
   <a href="https://t.me/joaomarcosqa" alt="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-ff3a5e?style=for-the-badge&logo=Telegram&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/Telegram-0088ff?style=for-the-badge&logo=Telegram&logoColor=FFF"/>
   </a>
   
   <a href="https://gitlab.com/joaomarcosqa" alt="Gitlab">
-    <img src="https://img.shields.io/badge/-Gitlab-ff3a5e?style=for-the-badge&logo=Gitlab&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Gitlab-0088ff?style=for-the-badge&logo=Gitlab&logoColor=FFF"/>
   </a>
   
   <a href="https://bitbucket.org/joaomarcosqa/" alt="Bitbucket">
-    <img src="https://img.shields.io/badge/-Bitbucket-ff3a5e?style=for-the-badge&logo=Bitbucket&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Bitbucket-0088ff?style=for-the-badge&logo=Bitbucket&logoColor=FFF"/>
   </a>
   
   <a href="https://www.instagram.com/joaomarcos_x/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Instagram-0088ff?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3A5E&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3A5E&size=35&center=true&vCenter=true&width=1000&lines=you+will+see;what+i+want+you+to+see)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0088ff&size=35&center=true&vCenter=true&width=1000&lines=you+will+see;what+i+want+you+to+see)](https://git.io/typing-svg)
   
 </div>  
 
