@@ -12,7 +12,7 @@
 
 <img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo joaomarcosqa">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos! 🍷🗿 <br>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá! Sou João Marcos! <br>
 
 ## 🎯 Qa Tech Lead | Chapter Lead | Sênior
 
